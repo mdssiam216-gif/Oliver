@@ -4,9 +4,11 @@
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SONY_MAX_Logo_2022.png/250px-SONY_MAX_Logo_2022.png” group-title=”indian”, sony max hd
 https://edge2.roarzone.net:8447/roarzone/edge3/sony_max_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/250px-ATN_News_Logo_without_slogan.svg.png” group-title=”indian”, atn news
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/250px-ATN_News_Logo_without_slogan.svg.png” group-title=”Bangla”, atn news
 https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Star_Sports_Network_logo.png/250px-Star_Sports_Network_logo.png” group-title=”indian”, Star Sports
 https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Willow_Cricket.PNG/250px-Willow_Cricket.PNG” group-title=”indian”, Willow Cricket
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Sony_Aath_Logo.png/250px-Sony_Aath_Logo.png” group-title=”indian”, Sony_Aath
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
