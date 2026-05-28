@@ -6,3 +6,6 @@ https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge3/sony_max_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/250px-ATN_News_Logo_without_slogan.svg.png” group-title=”indian”, atn news
 https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Star_Sports_Network_logo.png/250px-Star_Sports_Network_logo.png” group-title=”indian”, Star_Sports
+https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
+
